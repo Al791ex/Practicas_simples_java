@@ -1,0 +1,3 @@
+El proyecto aun no esta terminado, pero puede servir como aporte para aquellos que esten realizando algo similar.
+
+Algun aporte o consejo estaran bien recibidos!! :)
